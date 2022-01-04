@@ -4,20 +4,39 @@
 
 *<u>INGREDIENTES:</u>*
 
-1/2 xícara de chá de óleo
-1/2 xícara de chá de leite
-3 ovos
-1 cubo de caldo de legumes
-1 pitada de sal
-1 e 1/2 xícara de chá de farinha de trigo
-1 colher de sopa de fermento em pó
-1 lata de atum
-2 tomates em rodelas
-2 cebolas em rodelas
-Milho verde e ervilhas
-Óregano e sal para polvilhar
-5 colheres de sopa de azeite para regar
-Maragrina e farinha de trigo para untar
+- <p>1/2 xícara de chá de óleo</p>
+
+- <p>1/2 xícara de chá de leite</p>
+
+- <p>3 ovos</p>
+
+- <p>1 cubo de caldo de legumes</p>
+
+- <p>1 pitada de sal</p>
+
+- <p>1 e 1/2 xícara de chá de farinha de trigo</p>
+
+- <p>1 colher de sopa de fermento em pó</p>
+
+- <p>1 lata de atum</p>
+
+- <p>2 tomates em rodelas</p>
+
+- <p>2 cebolas em rodelas</p>
+
+- <p>Milho verde e ervilhas</p>
+
+- <p>Óregano e sal para polvilhar</p>
+
+- <p>5 colheres de sopa de azeite para regar</p>
+
+- <p>Margarina e farinha de trigo para untar</p>
+
+  <br>
+
+  <br>
+
+  
 
 *<u>MODO DE PREPARO</u>* :ramen:
 
